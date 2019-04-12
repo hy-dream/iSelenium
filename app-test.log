@@ -1,0 +1,47 @@
+2019-04-12 13:31:48,696 - 加载配置文件iselenium.properties
+2019-04-12 13:31:48,730 - 配置文件加载失败，请检查/Users/hy路径下是否存在iselenium.properties文件!
+2019-04-12 13:31:48,730 - 读入各个webdriver的路径
+2019-04-12 13:31:48,731 - firefoxPath = null
+2019-04-12 13:31:48,732 - chromePath = null
+2019-04-12 13:31:48,733 - phantomjsPath = null
+2019-04-12 13:31:48,736 - 当前浏览器：firefox
+2019-04-12 13:31:48,737 - 自动化测试结束。
+2019-04-12 13:34:50,717 - 加载配置文件iselenium.properties
+2019-04-12 13:34:50,723 - 读入各个webdriver的路径
+2019-04-12 13:34:50,723 - firefoxPath = /Applications/Firefox.app/Contents/MacOS/firefox-bin
+2019-04-12 13:34:50,724 - chromePath = null
+2019-04-12 13:34:50,724 - phantomjsPath = null
+2019-04-12 13:34:50,725 - 当前浏览器：firefox
+2019-04-12 13:35:37,546 - 自动化测试结束。
+2019-04-12 13:45:49,770 - 加载配置文件iselenium.properties
+2019-04-12 13:45:49,776 - 读入各个webdriver的路径
+2019-04-12 13:45:49,776 - firefoxPath = /Applications/Firefox.app/Contents/MacOS/firefox-bin
+2019-04-12 13:45:49,777 - chromePath = null
+2019-04-12 13:45:49,777 - phantomjsPath = null
+2019-04-12 13:45:49,778 - 当前浏览器：firefox
+2019-04-12 13:46:36,519 - 自动化测试结束。
+2019-04-12 13:48:25,419 - 加载配置文件iselenium.properties
+2019-04-12 13:48:25,426 - 读入各个webdriver的路径
+2019-04-12 13:48:25,426 - firefoxPath = /Applications/Firefox.app/Contents/MacOS/firefox-bin
+2019-04-12 13:48:25,426 - chromePath = null
+2019-04-12 13:48:25,427 - phantomjsPath = null
+2019-04-12 13:48:25,428 - 当前浏览器：firefox
+2019-04-12 13:49:12,162 - 自动化测试结束。
+2019-04-12 13:59:22,801 - 加载配置文件iselenium.properties
+2019-04-12 13:59:22,808 - 读入各个webdriver的路径
+2019-04-12 13:59:22,808 - firefoxPath = /Applications/Firefox.app/Contents/MacOS/firefox-bin
+2019-04-12 13:59:22,809 - chromePath = null
+2019-04-12 13:59:22,809 - phantomjsPath = null
+2019-04-12 13:59:22,811 - 当前浏览器：firefox
+2019-04-12 14:00:09,559 - 自动化测试结束。
+2019-04-12 14:12:23,076 - 加载配置文件iselenium.properties
+2019-04-12 14:12:23,082 - 读入各个webdriver的路径
+2019-04-12 14:12:23,083 - firefoxPath = /Applications/Firefox.app/Contents/MacOS/firefox-bin
+2019-04-12 14:12:23,084 - chromePath = null
+2019-04-12 14:12:23,085 - phantomjsPath = null
+2019-04-12 14:12:23,086 - 当前浏览器：firefox
+2019-04-12 14:12:26,885 - 开始运行自动化测试：百度搜索UI自动化测试
+2019-04-12 14:12:26,885 - 浏览器中打开百度网站
+2019-04-12 14:12:31,502 - 输入查询文本：selenium
+2019-04-12 14:12:35,130 - 单击查询按钮
+2019-04-12 14:12:37,152 - 自动化测试百度搜索UI自动化测试结束。
